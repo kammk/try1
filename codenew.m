@@ -1,6 +1,6 @@
 clear
 a=10;
-b=20;
+b=19;
 
 % comments
 c=0;
